@@ -15,12 +15,12 @@ title: Contact Our Development Team
 
 - ** Tuomo Karki ** [tuomo.karki@hackney.gov.uk] - Lead Developer
 
-- ** Livia Basiu ** [livia.basiu@hackney.gov.uk] - Maintainer and Collaborator
+-  ** Gareth Cozens ** [gareth.cozens@hackney.gov.uk] - Content Creator
 
-- ** Atiyyah Rawat ** [atiyyah.rawat@hackney.gov.uk]- Maintainer and Collaborator
+- ** Rahul Verma ** [rahul.verma@hackney.gov.uk]- Content Creator
 
-- ** Alex Demetriou ** [Alex.Demetriou@hackney.gov.uk] - Content creator
-
-- ** Bukky Omotoso ** [Bukky.Omotoso@hackney.gov.uk] - Content creator
+- ** Michael Sterling ** [michael.sterling@hackney.gov.uk] - Content Creator
 
 - ** Humairaa Mulla ** [Humairaa.Mulla@hackney.gov.uk] - Content creator
+
+- ** Livia Basiu ** [livia.basiu@hackney.gov.uk] - Maintainer and Collaborator

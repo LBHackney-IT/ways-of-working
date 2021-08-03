@@ -1,8 +1,9 @@
 ---
 id: index
 title: Introduction
-
+slug: /
 ---
+
 ## Purpose
 
 tbc
