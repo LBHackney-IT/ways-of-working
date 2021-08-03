@@ -1,27 +1,27 @@
 module.exports = {
-  title: "Hackney API Specifications",
+  title: "Hackney Micro Frontends",
   tagline:
     "A guide on Hackney's development practices, and how to follow them",
-  url: "https://lbhackney-it.github.io/api-specifications",
-  baseUrl: "/api-specifications/",
+  url: "https://github.com/LBHackney-IT/micro-frontends",
+  baseUrl: "/micro-frontends/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.png",
   organizationName: "lbhackney-it",
-  projectName: "api-specifications",
+  projectName: "micro-frontends",
   themeConfig: {
     prism: {
       additionalLanguages: ["csharp"],
     },
     navbar: {
-      title: "API Specifications",
+      title: "Micro Frontends",
       logo: {
-        alt: "API Specifications",
+        alt: "Micro Frontends",
         src: "img/logo-long.svg",
       },
       items: [
         {
-          href: "https://github.com/LBHackney-IT/api-specifications",
+          href: "https://github.com/LBHackney-IT/micro-frontends",
           label: "GitHub",
           position: "right",
         },
@@ -30,7 +30,7 @@ module.exports = {
     algolia: {
       apiKey: '4a83a5c4eb60fa0e4dae66ff84553e02',
       indexName: 'hackney',
-      placeholder: 'Search Specifications'
+      placeholder: 'Search micro-frontends'
     },
     footer: {
       style: "dark",
@@ -45,7 +45,7 @@ module.exports = {
         docs: {
           routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/LBHackney-IT/api-specifications/edit/master/",
+          editUrl: "https://github.com/LBHackney-IT/micro-frontends/edit/master/",
         },
         theme: {
           customCss: [require.resolve("./src/docs.scss")],

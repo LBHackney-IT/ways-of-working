@@ -3,14 +3,12 @@ module.exports = {
     {
       type: 'category',
       label: 'Home',
-      items: ['index', 'assessment_process'],
+      items: ['index'],
     },
     {
       type: 'category',
-      label: 'Specifications',
-      items: ['activities_api', 'asset_info', 'configuration',
-              'contact_details', 'housing_search', 'notes', 'organisations',
-              'person-api', 'search_api', 'tenure_api',],
+      label: 'Micro-frontends',
+      items: [],
     },
     {
       type: 'category',
