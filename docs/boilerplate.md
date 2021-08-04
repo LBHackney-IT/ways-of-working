@@ -1,0 +1,4 @@
+---
+id: boilerplate
+title: BoilerPlate
+---

@@ -8,7 +8,9 @@ module.exports = {
     {
       type: 'category',
       label: 'Micro-frontends',
-      items: [],
+      items: ['benefits', 'how_to_guides', 'boilerplate', 'testing', 'source_code_management',
+              'deployment_and_architecture', 'aws_services'
+             ],
     },
     {
       type: 'category',
