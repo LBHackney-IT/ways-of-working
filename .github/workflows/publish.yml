@@ -35,8 +35,8 @@ jobs:
           USE_SSH: true
           GIT_USER: git
         run: |
-          git config --global user.email "selwyn.preston@hackney.gov.uk"
-          git config --global user.name "LBHSPreston"
+          git config --global user.email "ci@hackney.gov.uk"
+          git config --global user.name "lbhackney-automation"
           if [ -e yarn.lock ]; then
           yarn install --frozen-lockfile
           elif [ -e package-lock.json ]; then
