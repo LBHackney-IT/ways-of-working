@@ -1,27 +1,27 @@
 module.exports = {
-  title: "Hackney Micro Frontends",
+  title: "Hackney Our Ways Of Working",
   tagline:
     "A guide on Hackney's development practices, and how to follow them",
-  url: "https://github.com/LBHackney-IT/micro-frontends",
-  baseUrl: "/micro-frontends/",
+  url: "https://github.com/LBHackney-IT/ways-of-working",
+  baseUrl: "/ways-of-working/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.png",
   organizationName: "lbhackney-it",
-  projectName: "micro-frontends",
+  projectName: "ways-of-working",
   themeConfig: {
     prism: {
       additionalLanguages: ["csharp"],
     },
     navbar: {
-      title: "Micro Frontends",
+      title: "Our ways of working",
       logo: {
-        alt: "Micro Frontends",
+        alt: "Our ways of working",
         src: "img/logo-long.svg",
       },
       items: [
         {
-          href: "https://github.com/LBHackney-IT/micro-frontends",
+          href: "https://github.com/LBHackney-IT/ways-of-working",
           label: "GitHub",
           position: "right",
         },
@@ -30,7 +30,7 @@ module.exports = {
     algolia: {
       apiKey: '4a83a5c4eb60fa0e4dae66ff84553e02',
       indexName: 'hackney',
-      placeholder: 'Search micro-frontends'
+      placeholder: 'Search ways-of-working'
     },
     footer: {
       style: "dark",
@@ -45,7 +45,7 @@ module.exports = {
         docs: {
           routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/LBHackney-IT/micro-frontends/edit/master/",
+          editUrl: "https://github.com/LBHackney-IT/ways-of-working/edit/master/",
         },
         theme: {
           customCss: [require.resolve("./src/docs.scss")],
