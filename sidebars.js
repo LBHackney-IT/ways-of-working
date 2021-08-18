@@ -8,7 +8,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Our-ways-of-working',
-      items: [],
+      items: ['development_standards'],
     },
     {
       type: 'category',
